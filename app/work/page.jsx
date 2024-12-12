@@ -40,8 +40,8 @@ const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate sapiente maiores deserunt perferendis reiciendis eos! ",
     stack: [{ name: "React js" }, { name: "Css 3" }],
     image: edupress,
-    live: "https://mohammadkerdasi.github.io/EduPressX71",
-    github: "https://github.com/MohammadKerdasi/EduPressX7",
+    live: "https://mohammadkerdasi.github.io/EduPressX71/",
+    github: "https://github.com/MohammadKerdasi/EduPressX71",
   },
   {
     num: "03",
