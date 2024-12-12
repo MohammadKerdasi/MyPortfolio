@@ -40,7 +40,7 @@ const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate sapiente maiores deserunt perferendis reiciendis eos! ",
     stack: [{ name: "React js" }, { name: "Css 3" }],
     image: edupress,
-    live: "https://mohammadkerdasi.github.io/EduPressX7/",
+    live: "https://mohammadkerdasi.github.io/EduPressX71/",
     github: "https://github.com/MohammadKerdasi/EduPressX7",
   },
   {
@@ -51,7 +51,7 @@ const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate sapiente maiores deserunt perferendis reiciendis eos! ",
     stack: [{ name: "React js" }, { name: "Tailwind.css" }, { name: "Redux" }],
     image: theblog,
-    live: "",
+    live: "https://mohammadkerdasi.github.io/The-Blog/",
     github: "https://github.com/MohammadKerdasi/The-Blog",
   },
   {
@@ -63,7 +63,7 @@ const projects = [
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "JavaScript" }],
     image: Kerdasisshop,
     live: "https://mk-shop-ecru.vercel.app/home",
-    github: "",
+    github: "https://github.com/MohammadKerdasi/Kerdasi-s-shop",
   },
 ];
 
